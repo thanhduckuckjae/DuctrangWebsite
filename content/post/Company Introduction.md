@@ -11,6 +11,7 @@ tags:
 ---
 
 ## Introduction
+
 Duc Trang Company Limited specializes in:
 
 1. Clearing up construction ground trash (leveling);
@@ -25,7 +26,7 @@ Duc Trang Company Limited specializes in:
 
 6. Transport along fixed routes;
 
-7. Passenger transportation under contracts, tourist transportation, freight transport, coastal transportation (ships, canoes, motor boats);
+7. Passenger transportation under contracts, tourist transportation, freight transport, coastal transportation (ships, canoes, motorboats);
 
 8. Purchase and sale of construction materials.
 
@@ -35,4 +36,4 @@ Duc Trang Company Limited specializes in:
 
 Phone: (+84) 978 306 618
 
-Email: ductrang64@gmail.com
+Email: thanhdu1964@gmail.com

@@ -7,13 +7,14 @@ menu: main
 ---
 
 ## Introduction
+
 Duc Trang Company Limited specializes in:
 
 1. Clearing up construction ground trash (leveling);
 
 2. Construction of civil, industrial, transport works (bridges, roads, culverts ...), electrical works up to 35kV, irrigation works, water supply and drainage works;
 
-3. House and workshop cleaning service;
+3. House and workshop cleaning services;
 
 4. Real estate brokerage, real estate services;
 
@@ -21,7 +22,7 @@ Duc Trang Company Limited specializes in:
 
 6. Transport along fixed routes;
 
-7. Passenger transportation under contracts, tourist transportation, freight transport, coastal transportation (ships, canoes, motor boats);
+7. Passenger transportation under contracts, tourist transportation, freight transport, coastal transportation (ships, canoes, motorboats);
 
 8. Purchase and sale of construction materials.
 
@@ -31,6 +32,6 @@ Duc Trang Company Limited specializes in:
 
 Phone: (+84) 978 306 618
 
-Email: ductrang64@gmail.com
+Email: thanhdu1964@gmail.com
 
 
